@@ -65,13 +65,12 @@ Key Features:
 🔮 Future Scope  
 - Use advanced models like Random Forest  
 - Add more features such as weather  
-- Develop real-time prediction system  
+- Develop real-time prediction system
 
 ▶️ How to Run  
-Install required libraries and run the script:
+-Make sure Python is installed, install the required libraries using pip, and run the main file using python main.py to see the predictions and visualizations.
 
-pip install pandas matplotlib seaborn scikit-learn  
-python main.py  
+👩‍💻 Author  
+Srujana Yadav  
 
-📄 License  
-This project is for academic purposes.
+
