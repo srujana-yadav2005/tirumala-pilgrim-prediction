@@ -5,7 +5,7 @@ This project focuses on predicting the daily number of pilgrims visiting the Tir
 
 🎯 Objective  
 - Predict daily pilgrim count using historical data  
-- Analyze the impact of festivals 🎉, weekends 📅, and special events  
+- Analyze the impact of festivals , weekends , and special events  
 - Build a regression model for forecasting  
 
 📁 Dataset  
