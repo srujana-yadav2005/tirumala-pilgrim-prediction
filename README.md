@@ -14,11 +14,11 @@ The dataset contains daily records of pilgrim visits along with influencing fact
 Key Features:  
 - date – Date of record  
 - darshans – Number of pilgrims (target variable)  
-- weekend – Weekend indicator 📅  
-- is_festival – Festival indicator 🎉  
-- is_brahmostavam – Special event indicator 🔥  
+- weekend – Weekend indicator 
+- is_festival – Festival indicator 
+- is_brahmostavam – Special event indicator  
 - rolling_avg_7 – 7-day rolling average  
-- google_trend_score – Trend popularity score 📈  
+- google_trend_score – Trend popularity score   
 
 🧹 Data Preprocessing  
 - Converted date column to datetime format  
@@ -37,18 +37,18 @@ Key Features:
 - MAE: ~5000  
 
 📊 Visualizations  
-- Actual vs Predicted plot 📉  
-- Festival impact analysis 🎉  
-- Brahmotsavam distribution 🔥  
-- Scatter plots 🔵  
-- Comparison chart 📊  
-- Pairplot / Heatmap 🧠  
+- Actual vs Predicted plot   
+- Festival impact analysis  
+- Brahmotsavam distribution   
+- Scatter plots 
+- Comparison chart   
+- Pairplot / Heatmap   
 
 🔍 Key Insights  
-- Festivals increase pilgrim count 🎉  
-- Weekends show higher footfall 📅  
-- Brahmotsavam causes variation 🔥  
-- Rolling average is an important predictor 📈  
+- Festivals increase pilgrim count  
+- Weekends show higher footfall 
+- Brahmotsavam causes variation   
+- Rolling average is an important predictor  
 
 🛠 Tools Used  
 - Python  
